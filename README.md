@@ -1,8 +1,7 @@
- 🤓 Hi, I'm Ana Flávia
+ Hi, I'm Ana Flávia
 
 
-- ⚡️ I’m interested in eletric engineer 
-- 💻 I’m currently learning about html and css
+- ⚡️ eletric engineer 
 
 
 <!---
